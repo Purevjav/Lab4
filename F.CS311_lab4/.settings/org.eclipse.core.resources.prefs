@@ -1,0 +1,4 @@
+eclipse.preferences.version=1
+encoding//src/grades/GradeManager.java=UTF-8
+encoding//src/grades/InvalidGradeException.java=UTF-8
+encoding//src/grades/LetterGrade.java=UTF-8
